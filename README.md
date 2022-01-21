@@ -4,7 +4,10 @@
 
 I'm a Full Stack Developer at [GeekHunter](https://www.geekhunter.com.br/).
 
-[![Collumbus's GitHub stats](https://github-readme-stats.vercel.app/api?username=wesleysiqueira&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/wesleysiqueira/github-readme-stats)
+- 🔭 I’m currently working on development of new features and providing maintenance for the application.
+- 🌱 I’m currently learning how to imporve my hard and soft skills.
+- 📫 How to reach me:
+
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/wesley-siqueira-a09b10b8/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/wesleyigors/)
 
