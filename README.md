@@ -2,7 +2,7 @@
 
 ### What's up?! 👋
 
-I'm a Full Stack Developer at [GeekHunter](https://www.geekhunter.com.br/).
+I'm a Full Stack Developer at [Clevertech](https://www.clevertech.biz/).
 
 - 🔭 I’m currently working on development of new features and providing maintenance for the application.
 - 🌱 I’m currently learning how to imporve my hard and soft skills.
